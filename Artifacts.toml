@@ -1,0 +1,30 @@
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "7491263c27d743ac6c42f8093a7b228ca567fe17"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[NetCDFF.download]]
+    sha256 = "8e9ed88c23f5c5c71327612dfc1a61f7f73f2bb9a20b847240ceb4d47594980e"
+    url = "https://github.com/barche/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+1/NetCDFF.v4.5.3.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "199b74a698c61ad59521a6e21270209eaff78f43"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[NetCDFF.download]]
+    sha256 = "a3ab7b8ee54b9905f3ad9d8d3fa9e94ac769ac722fa20b4f7fd5799278a1fb0e"
+    url = "https://github.com/barche/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+1/NetCDFF.v4.5.3.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[NetCDFF]]
+arch = "x86_64"
+git-tree-sha1 = "036c7fd1ae317957907ddaf8364dbaf0bcc50771"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[NetCDFF.download]]
+    sha256 = "1acb274e3805a251e4f57594facb2b17752a54498efb7ef78468330c28c6582a"
+    url = "https://github.com/barche/NetCDFF_jll.jl/releases/download/NetCDFF-v4.5.3+1/NetCDFF.v4.5.3.x86_64-linux-gnu-libgfortran5.tar.gz"
